@@ -5,8 +5,6 @@ Rapid Leech is a free server transfer script for use on various popular upload/d
 
 Rapidleech script has being used by more than 5 million users worldwide and has being installed on more than 2000 servers.
 
-This text your see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.  
-
 For webmasters
 -
 
